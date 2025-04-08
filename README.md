@@ -3,7 +3,7 @@
 This project trains a simple Convolutional Neural Network (CNN) on the MNIST dataset, exports the model to ONNX, and runs inference using ONNX Runtime.
 
 ## 📁 Contents
-- `mnist_cnn.ipynb` – Colab notebook for training and exporting the model
+- `Code0.ipynb` – Colab notebook for training and exporting the model
 - `mnist_cnn.onnx` – Exported ONNX model
 - `AI_Project_Summary.pdf` – Plain-language summary of the whole project
 - `inference_test.py` – Python script to test the ONNX model
